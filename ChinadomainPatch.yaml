@@ -13,3 +13,4 @@ payload:
   - DOMAIN,vip.ffzy-play2.com
   - DOMAIN,o1098464.ingest.sentry.io
   - DOMAIN,vip.kuaikan-cdn1.com
+  - DOMAIN-SUFFIX,bfzycdn.com
