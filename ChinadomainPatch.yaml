@@ -12,3 +12,4 @@ payload:
   - DOMAIN-KEYWORD,yydstxt
   - DOMAIN,vip.ffzy-play2.com
   - DOMAIN,o1098464.ingest.sentry.io
+  - DOMAIN-KEYWORD,cdn
