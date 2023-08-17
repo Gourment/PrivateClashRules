@@ -14,3 +14,4 @@ payload:
   - DOMAIN,o1098464.ingest.sentry.io
   - DOMAIN,vip.kuaikan-cdn1.com
   - DOMAIN-SUFFIX,bfzycdn.com
+  - DOMAIN-SUFFIX,1000qm.vip
