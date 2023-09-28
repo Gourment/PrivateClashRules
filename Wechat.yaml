@@ -8,3 +8,4 @@ payload:
   - DOMAIN,sgaxshort.wechat.com
   - DOMAIN,sgfindershort.wechat.com
   - DOMAIN,dl.wechat.com
+  - DOMAIN-SUFFIX,wechat.com
