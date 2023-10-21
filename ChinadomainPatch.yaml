@@ -11,7 +11,7 @@ payload:
   - DOMAIN-KEYWORD,wandou
   - DOMAIN-KEYWORD,yydstxt
   - DOMAIN,vip.ffzy-play2.com
-  - DOMAIN,o1098464.ingest.sentry.io
+  - DOMAIN-SUFFIX,ingest.sentry.io
   - DOMAIN,vip.kuaikan-cdn1.com
   - DOMAIN-SUFFIX,bfzycdn.com
   - DOMAIN-SUFFIX,1000qm.vip
