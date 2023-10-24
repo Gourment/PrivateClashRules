@@ -22,7 +22,17 @@ payload:
 # 电影先生
   - DOMAIN-SUFFIX,dyxs31.com
   - DOMAIN,vip.ffzyread1.com
+  - DOMAIN,v.cdnlz14.com
+# 资源站点
   - DOMAIN-KEYWORD,yzzy
+  - DOMAIN-KEYWORD,1080zyk
+  - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-KEYWORD,kuaikan
+  - DOMAIN-KEYWORD,ukuzy
+  - DOMAIN-KEYWORD,bdzy
+# 80s电影网
+  - DOMAIN-SUFFIX,05dym.com
+  - DOMAIN-SUFFIX,vui22.com
 # 速搜
   - DOMAIN-SUFFIX,sstv.pw
   - DOMAIN-SUFFIX,snzycdn.com
