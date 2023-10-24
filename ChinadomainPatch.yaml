@@ -1,4 +1,6 @@
 payload:
+# 阿里云
+  - DOMAIN-KEYWORD,aliyundrive
 # 前端监控-青龙
   - DOMAIN-SUFFIX,ingest.sentry.io
 # 第一版主网
@@ -26,3 +28,5 @@ payload:
 # 视频流
   - DOMAIN,vip.ffzy-play2.com
   - DOMAIN,vip.kuaikan-cdn1.com
+# 爱看剧
+  - DOMAIN-SUFFIX,akj.ee
