@@ -1,4 +1,11 @@
 payload:
+# 前端监控-青龙
+  - DOMAIN-SUFFIX,ingest.sentry.io
+# 第一版主网
+  - DOMAIN-KEYWORD,yydstxt
+# 阡陌居
+  - DOMAIN-SUFFIX,1000qm.vip
+# 国内视频站点
   - DOMAIN-SUFFIX,rrets.cc
   - DOMAIN-SUFFIX,333ys.tv
   - DOMAIN-SUFFIX,smdyy1.cc
@@ -9,10 +16,10 @@ payload:
   - DOMAIN-SUFFIX,sstv.pw
   - DOMAIN-SUFFIX,btbtt12.com
   - DOMAIN-KEYWORD,wandou
-  - DOMAIN-KEYWORD,yydstxt
-  - DOMAIN,vip.ffzy-play2.com
-  - DOMAIN-SUFFIX,ingest.sentry.io
-  - DOMAIN,vip.kuaikan-cdn1.com
   - DOMAIN-SUFFIX,bfzycdn.com
-  - DOMAIN-SUFFIX,1000qm.vip
+# 电影先生
+  - DOMAIN-SUFFIX,dyxs31.com
   - DOMAIN,vip.ffzyread1.com
+# 视频流
+  - DOMAIN,vip.ffzy-play2.com
+  - DOMAIN,vip.kuaikan-cdn1.com
