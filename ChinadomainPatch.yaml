@@ -20,7 +20,7 @@ payload:
   - DOMAIN-KEYWORD,wandou
   - DOMAIN-SUFFIX,bfzycdn.com
 # 电影先生
-  - DOMAIN-SUFFIX,dyxs31.com
+  - DOMAIN-KEYWORD,dyxs
   - DOMAIN,vip.ffzyread1.com
   - DOMAIN,v.cdnlz14.com
 # 资源站点
