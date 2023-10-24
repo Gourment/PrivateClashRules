@@ -22,6 +22,7 @@ payload:
 # 电影先生
   - DOMAIN-SUFFIX,dyxs31.com
   - DOMAIN,vip.ffzyread1.com
+  - DOMAIN,cdn1.vip-yzzyonline.com
 # 速搜
   - DOMAIN-SUFFIX,sstv.pw
   - DOMAIN-SUFFIX,snzycdn.com
