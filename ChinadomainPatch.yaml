@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,yydstxt
 # 阡陌居
   - DOMAIN-SUFFIX,1000qm.vip
+  - DOMAIN-SUFFIX,1050qm.com
 # 国内视频站点
   - DOMAIN-SUFFIX,rrets.cc
   - DOMAIN-SUFFIX,333ys.tv
