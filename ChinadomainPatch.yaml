@@ -19,17 +19,28 @@ payload:
   - DOMAIN-SUFFIX,btbtt12.com
   - DOMAIN-KEYWORD,wandou
   - DOMAIN-SUFFIX,bfzycdn.com
-# 电影先生
   - DOMAIN-KEYWORD,dyxs
-  - DOMAIN,vip.ffzyread1.com
-  - DOMAIN,v.cdnlz14.com
+  - DOMAIN-KEYWORD,guanyingtai
+  - DOMAIN-KEYWORD,waipian
+  - DOMAIN-KEYWORD,dyjihe
+# 电影天堂
+  - DOMAIN-SUFFIX,dy2018.net
+  - DOMAIN-SUFFIX,dyttlg.com
+  - DOMAIN-SUFFIX,dytt.to
+# 图片加载
+  - DOMAIN-SUFFIX,zykpic.com
+  - DOMAIN-SUFFIX,ukuapi.com
 # 资源站点
-  - DOMAIN-KEYWORD,yzzy
-  - DOMAIN-KEYWORD,1080zyk
   - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-KEYWORD,yzzy
+  - DOMAIN-KEYWORD,hdzyk
+  - DOMAIN-KEYWORD,1080zyk
   - DOMAIN-KEYWORD,kuaikan
   - DOMAIN-KEYWORD,ukuzy
+  - DOMAIN-KEYWORD,ukubf
   - DOMAIN-KEYWORD,bdzy
+  - DOMAIN,pptv.1080tg.com
+  - DOMAIN-SUFFIX,cdnlz14.com
 # 80s电影网
   - DOMAIN-SUFFIX,05dym.com
   - DOMAIN-SUFFIX,vui22.com
