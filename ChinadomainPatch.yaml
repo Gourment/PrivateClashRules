@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,2wyy.com
   - DOMAIN-SUFFIX,xigua133.com
   - DOMAIN-SUFFIX,dadagui.me
-  - DOMAIN,img.ffzypic.com
   - DOMAIN-SUFFIX,btbtt12.com
   - DOMAIN-KEYWORD,wandou
   - DOMAIN-SUFFIX,bfzycdn.com
@@ -30,6 +29,7 @@ payload:
 # 图片加载
   - DOMAIN-SUFFIX,zykpic.com
   - DOMAIN-SUFFIX,ukuapi.com
+  - DOMAIN,img.dyimg.xyz
 # 资源站点
   - DOMAIN-KEYWORD,ffzy
   - DOMAIN-KEYWORD,yzzy
@@ -47,8 +47,5 @@ payload:
 # 速搜
   - DOMAIN-SUFFIX,sstv.pw
   - DOMAIN-SUFFIX,snzycdn.com
-# 视频流
-  - DOMAIN,vip.ffzy-play2.com
-  - DOMAIN,vip.kuaikan-cdn1.com
 # 爱看剧
   - DOMAIN-SUFFIX,akj.ee
