@@ -14,13 +14,15 @@ payload:
   - DOMAIN-SUFFIX,xigua133.com
   - DOMAIN-SUFFIX,dadagui.me
   - DOMAIN,img.ffzypic.com
-  - DOMAIN-SUFFIX,sstv.pw
   - DOMAIN-SUFFIX,btbtt12.com
   - DOMAIN-KEYWORD,wandou
   - DOMAIN-SUFFIX,bfzycdn.com
 # 电影先生
   - DOMAIN-SUFFIX,dyxs31.com
   - DOMAIN,vip.ffzyread1.com
+# 速搜
+  - DOMAIN-SUFFIX,sstv.pw
+  - DOMAIN-SUFFIX,snzycdn.com
 # 视频流
   - DOMAIN,vip.ffzy-play2.com
   - DOMAIN,vip.kuaikan-cdn1.com
