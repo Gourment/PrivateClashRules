@@ -3,8 +3,12 @@
   "rules": [
     {
       "domain": [
+        "youku.youkuphoto.com",
         "img.dyimg.xyz",
-        "pptv.1080tg.com"
+        "pptv.1080tg.com",
+        "hnzy.bfvvs.com",
+        "img.lzzyimg.com",
+        "pic.huishij.com"
       ]
     },
     {
@@ -19,19 +23,19 @@
         ".xigua133.com", 
         ".dadagui.me", 
         ".btbtt12.com", 
-        ".bfzycdn.com", 
-        ".bfzycdn.com", 
+        ".akj.ee",
         ".dy2018.net", 
         ".dyttlg.com", 
         ".dytt.to", 
         ".zykpic.com", 
         ".ukuapi.com", 
-        ".cdnlz14.com", 
         ".05dym.com", 
         ".vui22.com", 
         ".sstv.pw", 
+        ".dious.cc",
         ".snzycdn.com", 
-        ".akj.ee"
+        ".bfzycdn.com",
+        ".ikzybf.com"
       ]
     },
     {
@@ -49,8 +53,14 @@
         "ukuzy", 
         "ukubf", 
         "bdzy",
-        "wandou"
+        "wandou",
+        "dyxs"
       ]
+    },
+    {
+      "domain_regex": [
+        "v\.cdnlz[0-9]+\.com"
+      ]   
     }
   ]
 }
