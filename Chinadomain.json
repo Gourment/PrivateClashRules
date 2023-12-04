@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "img.dyimg.xyz",
+        "pptv.1080tg.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".ingest.sentry.io",
+        ".1000qm.vip", 
+        ".1050qm.com", 
+        ".rrets.cc", 
+        ".333ys.tv", 
+        ".smdyy1.cc", 
+        ".2wyy.com", 
+        ".xigua133.com", 
+        ".dadagui.me", 
+        ".btbtt12.com", 
+        ".bfzycdn.com", 
+        ".bfzycdn.com", 
+        ".dy2018.net", 
+        ".dyttlg.com", 
+        ".dytt.to", 
+        ".zykpic.com", 
+        ".ukuapi.com", 
+        ".cdnlz14.com", 
+        ".05dym.com", 
+        ".vui22.com", 
+        ".sstv.pw", 
+        ".snzycdn.com", 
+        ".akj.ee"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "aliyundrive",
+        "yydstxt",
+        "guanyingtai",
+        "waipian",
+        "dyjihe",
+        "ffzy",
+        "yzzy", 
+        "hdzyk", 
+        "1080zyk", 
+        "kuaikan", 
+        "ukuzy", 
+        "ukubf", 
+        "bdzy",
+        "wandou"
+      ]
+    }
+  ]
+}
