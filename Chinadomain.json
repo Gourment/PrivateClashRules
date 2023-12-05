@@ -59,7 +59,7 @@
     },
     {
       "domain_regex": [
-        "v\.cdnlz[0-9]+\.com"
+        "v\\.cdnlz[0-9]+\\.com"
       ]   
     }
   ]
