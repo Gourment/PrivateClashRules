@@ -9,7 +9,8 @@
         "hnzy.bfvvs.com",
         "img.lzzyimg.com",
         "pic.huishij.com",
-        "vip.lz-cdn6.com"
+        "vip.lz-cdn6.com",
+        "vip.lz-cdn5.com"
       ]
     },
     {
@@ -60,8 +61,7 @@
     },
     {
       "domain_regex": [
-        "v\\.cdnlz[0-9]+\\.com",
-        "vip\\.lz-cdn[0-9]+\\.com"
+        "v\\.cdnlz[0-9]+\\.com"
       ]   
     }
   ]
