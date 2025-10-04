@@ -48,3 +48,5 @@ payload:
   - DOMAIN-SUFFIX,snzycdn.com
 # 爱看剧
   - DOMAIN-SUFFIX,akj.ee
+# 小米路由器 NTP 服务器
+  - DOMAIN-SUFFIX,pool.ntp.org
